@@ -47,6 +47,5 @@ function draw() {
 
 }
 
-function keyPressed() {
-	//write code here
+function keyPressed() 
 }
